@@ -32,7 +32,7 @@ elif json_status == 402:
  print("**********************************************")
  print("Status Code: " + str(json_status) + "; Invalid user inputs for one or both
 locations.")
- print("**********************************************\n")
+ print("**********************************************\n"
  elif json_status == 611:
  print("**********************************************")
  print("Status Code: " + str(json_status) + "; Missing an entry for one or both 
